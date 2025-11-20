@@ -1,0 +1,25 @@
+variant	label
+WT	Wild-type
+p.(Gln11His)	Multisystem proteinopathy
+p.(Ala12Thr)	Multisystem proteinopathy
+p.(Gly43Val)	ALS
+p.(Arg105Cys)	ALS
+p.(Pro173Arg)	Ataxia
+p.(Thr179Ile)	Myopathy
+p.(Arg215Cys)	ALS
+p.(Leu227Phe)	Myopathy
+p.(Ser241Phe)	Myopathy
+p.(Glu254Ala)	Myopathy
+p.(Glu254Gln)	Myopathy
+p.(Glu254Lys)	Myopathy
+p.(Glu254Gly)	Myopathy
+p.(His283Gln)	Myopathy
+p.(Glu284Lys)	Myopathy
+p.(Arg320Cys)	ALS
+p.(Arg320His)	ALS
+p.(Gly350Val)	Myopathy
+p.(Gly354Asp)	Myopathy
+p.(Ala383Thr)	ALS
+p.(Glu415Lys)	Ataxia
+p.(Ile42Thr)	Benign
+p.(Val181Met)	Benign

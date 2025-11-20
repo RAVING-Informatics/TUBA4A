@@ -1,0 +1,21 @@
+ID	Variant	Domain	Phenotype	Inheritance	DUL	PUL	DLL	PLL	Axial	Facial	Ptosis	Respiratory	CK
+Pat2	c.536C>T(p.Thr179Ile)	1	Myopathy	1	4	4	4	4	n/a	1	0	1	1
+Pat5	c.536C>T(p.Thr179Ile)	1	Myopathy	4	5	4	5	4	1	0	0	0	1
+Pat6	c.679C>T(p.Leu227Phe)	1	Myopathy	4	2	5	2	5	1	1	0	0	1
+Pat7	c.679C>T(p.Leu227Phe)	1	Myopathy	3	2	2	4	2	1	1	1		0
+Pat8	c.760G>A(p.Glu254Lys)	1	Myopathy	3	1	1	1	1	1	1	1	1	0
+Pat9	c.760G>C(p.Glu254Gln)	1	Myopathy	4	1	1	1	1	1	1	1	1	1
+Pat10	c.761A>G(p.Glu254Gly)	1	Myopathy	3	1	1	1	1	1	1	0	1	1
+Pat11	c.761A>C(p.Glu254Ala)	1	Myopathy	4	1	1	1	1	1	1	1	1	1
+Pat12	c.849C>G(p.His283Gln)	2	Myopathy	4	4	4	4	4	0	0	0	0	0
+Pat13	c.850G>A(p.Glu284Lys)	2	Myopathy	4	5	4	5	4	1	0	0	1	1
+Pat15	c.850G>A(p.Glu284Lys)	2	Myopathy	1	4	2	2	1	1	0	0	0	1
+Pat16A	c.850G>A(p.Glu284Lys)	2	Myopathy	1	4	2	4	2	1	0	0	1	1
+Pat17	c.850G>A(p.Glu284Lys)	2	Myopathy	1	4	4	4	2	1	0	0	1	2
+Pat18	c.850G>A(p.Glu284Lys)	2	Myopathy	1	4	2	2	2	1	0	0	1	1
+Pat21	c.722C>T(p.Ser241Phe)	1	Myopathy	2	4	2	4	2	1	0	0	1	1
+Pat22	c.1061G>A(p.Gly354Asp)	2	Myopathy	2	4	2	4	2	1	0	0	1	1
+Pat23	c.1061G>A(p.Gly354Asp)	2	Myopathy	2	3	3	4	4	1	0	0	1	1
+Pat24	c.33G>C(p.Gln11His)	3	Multisystem proteinopathy	3	4	4	4	4	1	0	1	1	1
+Pat25	c.1049G>T(p.Gly350Val)	2	Myopathy	3	2	2	3	3	1	0	0	1	2
+Pat26	c.34G>A(p.Ala12Thr)	3	Multisystem proteinopathy	2	5	3	4	2	1	1	0	1	0
