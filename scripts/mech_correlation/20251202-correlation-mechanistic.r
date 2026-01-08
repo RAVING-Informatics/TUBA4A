@@ -28,7 +28,7 @@ library(corrplot)
 ## 1. PATHS AND INPUT
 ## ============================================================
 
-input_file  <- "data/mechanistic_correlation/TUBA4A-mechanistic-correlation.txt"
+input_file  <- "data/mechanistic_correlation/TUBA4A-mechanistic-correlation_updated.txt"
 results_dir <- "results"
 fig_dir     <- file.path(results_dir, "figures")
 tab_dir     <- file.path(results_dir, "tables")

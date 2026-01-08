@@ -72,7 +72,7 @@ From the repository root:
 Rscript scripts/genotype_phenotype/20251118-correlation-geno-pheno.r
 
 # Mechanistic correlations
-Rscript scripts/mech_correlation/20251118-correlation-mechanistic.r
+Rscript scripts/mech_correlation/20251202-correlation-mechanistic.r
 
 # Other modules (EM, FoldX, Aggrescan4D)
 Rscript scripts/EM/20251118-EM.r
