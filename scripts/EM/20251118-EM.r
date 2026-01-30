@@ -20,6 +20,10 @@ fig_dir     <- file.path(results_dir, "figures")
 dir.create(fig_dir, recursive = TRUE, showWarnings = FALSE)
 
 file <- file.path(input_dir, "TUBA4A-EM.txt")
+tab_dir <- file.path(results_dir, "tables")
+dir.create(tab_dir, recursive = TRUE, showWarnings = FALSE)
+
+stats_file <- file.path(tab_dir, "TUBA4A-EM_stats.txt")
 
 ## ===== 2. READ & CLEAN DATA (unchanged logic) =====
 
@@ -88,6 +92,12 @@ plot_em <- function(df, title_text) {
       binwidth      = 0.2
     ) +
     theme_classic() +
+    theme(
+      axis.text.x  = element_text(size = 16),
+      axis.text.y  = element_text(size = 16),
+      axis.title.y = element_text(size = 18),
+      plot.title   = element_text(size = 18, face = "bold", hjust = 0.5)
+    )+
     labs(
       x     = "",
       y     = "Microtubule diameter (nm)",
